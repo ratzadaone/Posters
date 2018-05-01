@@ -1,2 +1,2 @@
 # Posters
-Keep pressing E for stuff
+Keep pressing "E" for stuff
